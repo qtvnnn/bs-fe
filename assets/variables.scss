@@ -2,3 +2,9 @@
 //
 // The variables you want to modify
 // $font-size-root: 20px;
+@import '~assets/fonts.scss';
+
+// Globals
+$body-font-family: poppins;
+$expansion-panel-header-padding: 0;
+$expansion-panel-content-padding: 0;
